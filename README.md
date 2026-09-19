@@ -1,4 +1,2 @@
-%%markdown
-Mini Games Project
-
-print("This is the repository contain logical mini games")
+# Mini games project
+This repository contain mini logical game
